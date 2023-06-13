@@ -6,7 +6,7 @@
         <div id="right"></div>
         <div id="top"></div>
         <div id="bottom"></div>
-        <b-navbar-item id="fontnavbar" class="title is-2" style = "color:green">
+        <b-navbar-item id="fontnavbar" class="title is-2" style = "color:rgb(156, 14, 109)">
           Mein eigenes Instagram
         </b-navbar-item>
       </template>
@@ -37,7 +37,7 @@ export default class Home extends Vue {}
 
 <style scoped>
 #fontnavbar {
-  font-family: HaloHandletter;
+  font-family: Bodoni;
 }
 #top,
 #bottom,
